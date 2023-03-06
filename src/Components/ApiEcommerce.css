@@ -1,0 +1,48 @@
+.container{
+  display: inline-block;
+  margin-left: 3rem;
+  overflow: hidden;
+}
+
+.carta{
+  list-style: none;
+  border-radius: 10px;
+  width: 20rem;
+  height: 25rem;
+  background-color: #495579;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carta-interior{
+  margin-right: 13%;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.Descripcion-producto{
+  padding: 5px;
+  width: 20rem;
+  border-radius: 15px;
+  background-color: #ded6ff;
+}
+.contenedor-boton{
+  margin:5px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.boton-carta{
+  border-radius: 10px;
+  height: 2rem;
+  width: 7rem;
+}
+
+.api-img{
+  margin-top: 5px;
+  margin-left: 20%;
+  border-radius: 15px;
+  height: 15rem;
+  width: 12rem;
+}

@@ -1,0 +1,42 @@
+.nav-list{
+  /* background-color: transparent; */
+  border-radius: 10px;
+  height: 5rem;
+  background-color: #7286D3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+} 
+
+.lista-img{
+  width: 80px;
+  height: 45px;
+  border-radius: 15px;
+}
+
+.icon-cart{
+padding-left: 40px;
+padding-right: 80px;
+}
+
+.icon-search{
+  margin-left: -80px;
+}
+
+.input-search{
+  border-radius: 15px;
+  height: 1.2rem;
+  border: 1px  #7286D3 solid;
+}
+
+.nav-list li{
+  list-style: none;
+  text-decoration: none;
+}
+
+.lista{
+  color: #FFF2F2;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
